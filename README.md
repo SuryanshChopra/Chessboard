@@ -1,8 +1,4 @@
 
-![](Images/Chessboard Run.PNG)
-
-
-
-![](Images/Chessboard.PNG)
+![](Images/Images/Chessboard.PNG)
 
 
