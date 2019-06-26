@@ -1,3 +1,7 @@
+"""
+This project is made by Suryansh Chopra 
+Univ RollN0 -1805565
+"""
 import numpy as np
 
 A = [
@@ -21,3 +25,5 @@ arr1[n-1][m-1] =9  #We use n-1 and m-1 because they represent index no. and not 
 
 print("*************")
 print(arr1)
+
+
