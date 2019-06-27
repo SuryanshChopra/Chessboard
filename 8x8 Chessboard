@@ -2,7 +2,7 @@
 This project is made by Suryansh Chopra 
 Univ RollN0 -1805565
 Note- It would be easier to understand the structure of Chessboard if you print arr and arr1 separetely.
-      If you find any error in the code please type the coordinates below in the comment box.
+     
 """
 import numpy as np
 arr = np.zeros((8,8),dtype=int) 
