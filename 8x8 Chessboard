@@ -2,7 +2,7 @@
 This project is made by Suryansh Chopra 
 Univ RollN0 -1805565
 Note- It would be easier to understand the structure of Chessboard if you print arr and arr1 separetely.
-     
+Logic- I have placed the other 3 queens in knight's move around the main queen(coding in else statement). The problem occurs when the main queen is 2 steps away from the borders. The answer to this is present in if, elif statement.      
 """
 import numpy as np
 arr = np.zeros((8,8),dtype=int) 
